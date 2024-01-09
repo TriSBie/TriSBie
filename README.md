@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Shop-Ecommerce Project - NodeJs**
 
-- 🌱 I’m currently learning **Back-End frameworks, CI-CD Integration**
+- 🌱 I’m currently learning **Back-End frameworks, CI-CD Integration, Software Deployment**
 
 - 📫 How to reach me **buiductri2072002@gmail.com**
 
