@@ -1,9 +1,9 @@
-<h1 align="center">Ni~Hao 👋, I'm Kriss (Tri Bui) 👺</h1>
+<h1 align="center">Hi there 👋, I'm Kriss (Tri Bui) 👺</h1>
 <h3 align="center">A passionate dev-programmer from **🇻🇳**</h3>
 
-- 🔭 I’m currently working on **Shop-Ecommerce Project - NodeJs**
+- 🔭 I’m currently working on **Unicourse - Online Platform for FPT's Student**
 
-- 🌱 I’m currently learning **Back-End frameworks, CI-CD Integration, Software Deployment**
+- 🌱 I’m currently learning **Back-End frameworks, CI-CD Integration, System Design and Mobile Stuff**
 
 - 📫 How to reach me **buiductri2072002@gmail.com**
 
