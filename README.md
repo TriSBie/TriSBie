@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Kriss (Tri Bui) 👺</h1>
+<h1> 👋, I'm Kriss (Tri Bui) 👺</h1>
 
 ###
 
@@ -91,9 +91,5 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTg3cmphejAyeml5YmNhNjVtajUxYWF6MDdxdjl4ZTRzcnlkaDNnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif"  />
-</div>
 
 ###
