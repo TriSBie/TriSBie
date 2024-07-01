@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">- 🔭 I’m currently working on **Unicourse - Online Platform for FPT's Student**<br><br>- 🌱 I’m currently learning **Back-End frameworks, CI-CD Integration, System Design and Mobile Stuff**<br><br>- 👽 Feel free to sharing knowledges<br><br>- 📫 How to reach me **buiductri2072002@gmail.com**</h4>
+<h4 align="left">- 🔭 I’m currently working on **Unicourse - Online Platform for FPT's Student**<br><br>- 🌱 I’m currently learning **Back-End frameworks, CI-CD Integration, System Design and Mobile Stuff**<br><br>- 👽 Feel free to sharing knowledges<br><br>- 📫 How to reach me tribui.it.work@gmail.com</h4>
 
 ###
 
