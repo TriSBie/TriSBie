@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate dev-programmer from **🇻🇳** ( Highly Javascript & Java enthusiam )</p>
+<p align="left">A passionate dev-programmer from **🇻🇳** ( Highly interested with System Design Architecture )</p>
 
 ###
 
