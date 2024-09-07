@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">🗽 Language and Framework</h2>
+<h2 align="left">🗽 Language and Framework </h2>
 
 ###
 
