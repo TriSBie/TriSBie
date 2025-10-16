@@ -1,8 +1,8 @@
-<h1> 👋, I'm Kriss (Tri Bui)</h1>
+<h1> 👋, I'm Kriss </h1>
 
 ###
 
-<p align="left">A passionate dev-programmer from **🇻🇳** ( Highly interested with System Design Architecture & Computing Stuffs )</p>
+<p align="left">A passionate dev-programmer ( Highly interested with System Design Architecture & Computing Stuffs )</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">- 🔭 I’m currently working on **Unicourse - Online Platform for FPT's Student**<br><br>- 🌱 I’m currently learning **Devops, Backend, Design System & Algo**<br><br>- 👽 Feel free to sharing knowledges<br><br>- 📫 How to reach me tribui.it.work@gmail.com</h4>
+<h4 align="left">- 🔭 I’m currently working on **Unicourse - Online Platform for FPT's Student**<br><br>- 🌱 I’m currently learning **Devops, Backend, Design System & Algo**<br><br>- 👽 Feel free to sharing knowledges<br><br></h4>
 
 ###
 
