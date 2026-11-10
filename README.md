@@ -1,101 +1,41 @@
-<h1> 👋, I'm Kriss </h1>
 
-###
+# Kriss Bui (Bui Duc Tri)
 
-<p align="left">A passionate dev-programmer ( Highly interested with System Design Architecture & Computing Stuffs )</p>
+**Backend developer crafting reliable, event-driven systems.**
+Open to backend roles · Ho Chi Minh City
 
-###
+I design distributed services where data integrity is non-negotiable: transactional outboxes, idempotent consumers, and caching strategies that hold up under real-world spikes. 2+ years building loyalty & reward platforms and business web apps with **Java (Spring Boot 3), TypeScript (NestJS, Next.js), PostgreSQL and Apache Kafka**, working directly with clients and partner teams (VitaDairy, UrBox, MoMo, Salesforce).
 
-<h2 align="left">About me</h2>
+## Work
 
-###
+| | Case | What I did | Proof |
+|---|---|---|---|
+| 01 | **Event-driven loyalty platform** · TESO Global | Coin accumulation, lucky draw, reward redemption across NestJS + Spring Boot 3 services on Kafka. Transactional Outbox, idempotency keys, Redis distributed locks on multi-tenant PostgreSQL. | [Case study →](https://krissbui.pages.dev/#work) |
+| 02 | **FIORA financial SaaS backend** · Hopper Solution | Core services and REST APIs on Node.js + PostgreSQL + Prisma; schema and index design for ledger integrity; AWS Copilot, Redis, Firebase auth. | [Case study →](https://krissbui.pages.dev/#work) |
+| 03 | **Production Planning MVP** · SNY VINA | Solo delivery replacing 4 Excel files across 40 weaving machines: 2-step transactional imports, table-level locking, optimistic concurrency (409). Next.js 14, Prisma, Neon. | [Case study →](https://krissbui.pages.dev/#work) |
+| 04 | **JobPilot Edge** · side project | Job-hunting copilot for Vietnamese developers on Cloudflare Workers, D1, Queues, Vectorize, Workers AI. Six sources every 30 min, CV-based scoring, kanban. | [Repo](https://github.com/TriSBie/jobpilot-edge) · [Live](https://jobpilot-edge.pages.dev) |
 
-<h4 align="left">- 🔭 I’m currently working on **Unicourse - Online Platform for FPT's Student**<br><br>- 🌱 I’m currently learning **Devops, Backend, Design System & Algo**<br><br>- 👽 Feel free to sharing knowledges<br><br></h4>
+## Numbers
 
-###
+| Result | Context |
+|---|---|
+| **+30%** feature delivery velocity | Claude Code + Codex agents with Context7 and Playwright MCP, TESO |
+| **−45%** server payload & transfer | Image pipeline rewrite, Viec.Co |
+| **−45%** average API latency | Redis cache-aside + indexing under 500+ concurrent requests, Unicourse |
+| **−90%** job failure rate (~15% → <1.5%) | BullMQ retries with backoff + DLQ, Unicourse |
 
-<h2 align="left">🗽 Language and Framework </h2>
+## Stack
 
-###
+- **Backend:** Java (Spring Boot 3), TypeScript, Node.js (NestJS, Express), RESTful APIs, Webhooks, Microservices
+- **Data & Messaging:** PostgreSQL (multi-tenant, Neon), MySQL, Redis, Apache Kafka, BullMQ, Prisma, TypeORM, Flyway
+- **DevOps:** Docker multi-stage, CI/CD, AWS Copilot, Cloudflare Workers/Pages, Vercel
+- **Frontend:** Next.js 14, React, Tailwind
+- **Integrations & AI:** Salesforce CRM, MoMo, UrBox API, Claude Code, Codex, MCP servers, Jest, RTL, MSW
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+## Also on GitHub
 
-###
+[kafka-learning-platform](https://github.com/TriSBie/kafka-learning-platform) · [java-spring-learning-platform](https://github.com/TriSBie/java-spring-learning-platform) · [job-watcher-mvp](https://github.com/TriSBie/job-watcher-mvp) · [nestjs-ddd-boilerplate](https://github.com/TriSBie/nestjs-ddd-boilerplate)
 
-<h2 align="left">🗽Programming Tool</h2>
+## Links
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" height="40" alt="travis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-###
+[Portfolio](https://krissbui.pages.dev) · [CV (EN / VI)](https://krissbui.pages.dev/cv) · [LinkedIn](https://www.linkedin.com/in/kriss-bui) · tribui.it.work@gmail.com
